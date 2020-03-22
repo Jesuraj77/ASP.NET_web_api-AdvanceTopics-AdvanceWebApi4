@@ -1,0 +1,8 @@
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi4\AdvanceWebApi4.BusinessLayer\bin\Debug\netcoreapp3.1\AdvanceWebApi4.BusinessLayer.deps.json
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi4\AdvanceWebApi4.BusinessLayer\bin\Debug\netcoreapp3.1\AdvanceWebApi4.BusinessLayer.dll
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi4\AdvanceWebApi4.BusinessLayer\bin\Debug\netcoreapp3.1\AdvanceWebApi4.BusinessLayer.pdb
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi4\AdvanceWebApi4.BusinessLayer\obj\Debug\netcoreapp3.1\AdvanceWebApi4.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi4\AdvanceWebApi4.BusinessLayer\obj\Debug\netcoreapp3.1\AdvanceWebApi4.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi4\AdvanceWebApi4.BusinessLayer\obj\Debug\netcoreapp3.1\AdvanceWebApi4.BusinessLayer.AssemblyInfo.cs
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi4\AdvanceWebApi4.BusinessLayer\obj\Debug\netcoreapp3.1\AdvanceWebApi4.BusinessLayer.dll
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi4\AdvanceWebApi4.BusinessLayer\obj\Debug\netcoreapp3.1\AdvanceWebApi4.BusinessLayer.pdb

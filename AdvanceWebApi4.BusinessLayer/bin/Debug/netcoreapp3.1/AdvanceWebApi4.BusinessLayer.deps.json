@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AdvanceWebApi4.BusinessLayer/1.0.0": {
+        "runtime": {
+          "AdvanceWebApi4.BusinessLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdvanceWebApi4.BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

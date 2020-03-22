@@ -1,0 +1,8 @@
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi4\AdvanceWebApi4.Entities\bin\Debug\netcoreapp3.1\AdvanceWebApi4.Entities.deps.json
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi4\AdvanceWebApi4.Entities\bin\Debug\netcoreapp3.1\AdvanceWebApi4.Entities.dll
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi4\AdvanceWebApi4.Entities\bin\Debug\netcoreapp3.1\AdvanceWebApi4.Entities.pdb
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi4\AdvanceWebApi4.Entities\obj\Debug\netcoreapp3.1\AdvanceWebApi4.Entities.csprojAssemblyReference.cache
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi4\AdvanceWebApi4.Entities\obj\Debug\netcoreapp3.1\AdvanceWebApi4.Entities.AssemblyInfoInputs.cache
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi4\AdvanceWebApi4.Entities\obj\Debug\netcoreapp3.1\AdvanceWebApi4.Entities.AssemblyInfo.cs
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi4\AdvanceWebApi4.Entities\obj\Debug\netcoreapp3.1\AdvanceWebApi4.Entities.dll
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi4\AdvanceWebApi4.Entities\obj\Debug\netcoreapp3.1\AdvanceWebApi4.Entities.pdb
